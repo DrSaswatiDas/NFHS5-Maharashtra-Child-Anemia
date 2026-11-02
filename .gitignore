@@ -1,0 +1,15 @@
+# Raw survey microdata (do not publish unless redistribution is explicitly permitted)
+*.dta
+
+# R session and local project state
+.Rhistory
+.RData
+.Ruserdata
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
